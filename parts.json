@@ -1,0 +1,14 @@
+[
+  {
+    "partCode": "BOLT",
+    "modelUrl": "https://drive.google.com/uc?export=download&id=1EbTePYSIdV3ntRspnlucF88An3_Vc0nV",
+    "localPosition": { "x": 0.0, "y": 0.0, "z": 0.0 },
+    "localRotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+  },
+  {
+    "partCode": "NUT",
+    "modelUrl": "https://drive.google.com/uc?export=download&id=1x3swCaxkD22v1VZ7PS87jxVeauCydon1",
+    "localPosition": { "x": 0.1, "y": 0.0, "z": 0.0 },
+    "localRotation": { "x": 0.0, "y": 90.0, "z": 0.0 }
+  }
+]
